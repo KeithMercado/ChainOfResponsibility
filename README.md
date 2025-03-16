@@ -16,4 +16,4 @@
     - The appropriate waste collector in the chain should handle the disposal based on the type and capacity of the waste container.
 4. **Validation:** Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
-![alt text](<Chain of Responsibility UML.png>)
+![alt text](<Chain of Responsibility UML-1.png>)
